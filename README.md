@@ -16,3 +16,9 @@
 - 🔭 Hoje trabalho como Analista de Monitoramento
 - 🌱 Estudando para ser Desenvolvedor Full-Stack
 - 😄 Pronouns: ele/dele
+
+  
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thiagobezerra2/count.svg" />
+</p>
